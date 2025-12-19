@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'OpenAI Example'
+author 'RileyM'
 description 'Basic weapon draw animation script'
 version '1.0.0'
 
